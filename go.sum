@@ -1,0 +1,6 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/jyz0309/notionAI-go v1.0.2 h1:QUCOMXz6+jGEuowWVMI2Jll6f0luFpjPuBvqaX8XKu8=
+github.com/jyz0309/notionAI-go v1.0.2/go.mod h1:bra0g8dWYuNCAAeGKuBMcUvlTP1RCiOIZqpWSu4SPFU=
+github.com/jyz0309/notionAI-go v1.0.3-0.20230315155345-e83953810ecb h1:dsakWiQ20An1iI9BzDrSOJLG/0lBAJXcgC26Mf6D160=
+github.com/jyz0309/notionAI-go v1.0.3-0.20230315155345-e83953810ecb/go.mod h1:bra0g8dWYuNCAAeGKuBMcUvlTP1RCiOIZqpWSu4SPFU=
